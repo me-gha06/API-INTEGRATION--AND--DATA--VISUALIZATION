@@ -54,3 +54,5 @@ This project not only enhances understanding of API integration and data visuali
 # OUTPUT:
 
 <img width="1279" height="732" alt="Image" src="https://github.com/user-attachments/assets/bd17ca74-4572-43dc-b3d7-86ac1cea7a37" />
+
+<img width="1266" height="616" alt="Image" src="https://github.com/user-attachments/assets/d8368fe1-f65a-4923-a94b-0c3e32a82297" />
