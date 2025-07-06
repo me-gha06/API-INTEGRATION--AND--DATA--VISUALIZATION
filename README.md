@@ -17,23 +17,23 @@
 This repository presents a comprehensive Python project focused on Weather API Integration and Data Visualization, developed as part of the internship program at CodTech. The main objective of this task is to demonstrate the ability to interact with a real-world API, handle dynamic data programmatically, and represent the results through clean and insightful visualizations.
 The project makes use of the OpenWeatherMap API, a widely used public API that provides current weather data for any city around the world. Users can input the name of a city, and the script will send a request to the API, receive the data in JSON format, extract key weather metrics such as temperature, humidity, wind speed, and weather conditions, and display them in both textual and visual formats.
 
-Key Features:
-API Integration:
+# Key Features:
+*API Integration*:
 The script uses the requests library to connect with the OpenWeatherMap API, handles API keys securely, and manages HTTP responses effectively, including error handling for invalid city names or connection issues.
 
-Data Parsing and Processing:
+*Data Parsing and Processing*:
 The raw JSON data returned by the API is parsed to extract relevant values. These include the city name, weather description, temperature (in Celsius), humidity percentage, wind speed, and timestamp. The data is then structured using the pandas library to allow for easy manipulation and formatting.
 
-Visualization:
+*Visualization*:
 The extracted weather data is visualized using Matplotlib and Seaborn. For example, bar graphs and line charts are used to depict temperature trends and humidity levels across different cities or over time. This helps in identifying patterns and making the data more comprehensible for users.
 
-User Input and Flexibility:
+*User Input and Flexibility*:
 The program accepts user input for city names and allows for multiple cities to be analyzed in one session. This makes the project interactive and suitable for exploring weather conditions in different geographic locations.
 
-Clean and Modular Code Structure:
+*Clean and Modular Code Structure*:
 The code is organized into functions for clarity and reusability. Functions include getting API data, parsing and processing the response, and generating visualizations. This makes the code easier to read, maintain, and expand in the future.
 
-Technologies Used:
+# Technologies Used:
 Python
 OpenWeatherMap API
 Requests
@@ -41,7 +41,7 @@ Pandas
 Matplotlib
 Seaborn
 
-Learning Outcomes:
+# Learning Outcomes:
 Through this task, I gained practical experience in:
 
 Making API calls and working with JSON data.
