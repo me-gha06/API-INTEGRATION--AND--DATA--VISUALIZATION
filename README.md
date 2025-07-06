@@ -51,3 +51,6 @@ Writing clean, readable, and maintainable Python code.
 
 This project not only enhances understanding of API integration and data visualization but also represents a real-world scenario where software applications must fetch live data and present it in an insightful way. It can be extended in the future by integrating more features such as weather forecasting, data storage using databases, or creating a simple web-based interface using Flask or Streamlit.
 
+# OUTPUT:
+
+<img width="1279" height="732" alt="Image" src="https://github.com/user-attachments/assets/bd17ca74-4572-43dc-b3d7-86ac1cea7a37" />
